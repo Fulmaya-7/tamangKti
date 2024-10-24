@@ -1,4 +1,3 @@
 # tamangKti
-This is my first Git Repository.
-<br>
-Author - Fulmaya Tamang.
+Hello I am new here.
+I am fulmaya tamang.
